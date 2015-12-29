@@ -7,9 +7,6 @@ import android.os.Handler;
 import in.pharmeasy.demo.data.RealmInteractor;
 import in.pharmeasy.demo.io.SyncHelper;
 
-/**
- * Created by Jignesh on 26/12/15.
- */
 public class SplashModel {
 
     private final int SPLASH_DISPLAY_LENGTH = 2000;
