@@ -13,9 +13,7 @@ import butterknife.ButterKnife;
 import in.pharmeasy.demo.R;
 import in.pharmeasy.demo.data.model.Medicine;
 
-/**
- * Created by Jignesh on 26/12/15.
- */
+
 public class SlideShowActivity extends AppCompatActivity implements SlideShowView {
 
     @Bind(R.id.toolbar)
