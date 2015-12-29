@@ -8,9 +8,7 @@ import java.util.List;
 import in.pharmeasy.demo.data.model.Medicine;
 import in.pharmeasy.demo.data.RealmInteractor;
 
-/**
- * Created by Jignesh on 26/12/15.
- */
+
 public class SlideShowModel {
 
     private static final String TAG = "SlideShowModel";
